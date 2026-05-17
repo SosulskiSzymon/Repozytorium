@@ -2,16 +2,18 @@
 
 ## Wstęp
 
-## Agentic AI: Automatyzacja i orkiestracja
-
 ## Wpływ AI na produktywność programistów
 
-## Wyzwania etyczne i prawne
+    Jednym z najpopularniejszych narzędzi AI jest GitHub Copilot stworzony przez :contentReference[oaicite:0]{index=0} we współpracy z :contentReference[oaicite:1]{index=1}. Narzędzie działa jako „AI pair programmer” i pomaga programistom poprzez generowanie fragmentów kodu oraz podpowiedzi podczas programowania.
 
-## Transformacja bezpieczeństwa kodu
+    Najważniejsze zalety wykorzystania AI:
+    - szybsze pisanie kodu,
+    - automatyczne generowanie prostych funkcji,
+    - pomoc w nauce nowych technologii,
+    - ograniczenie liczby prostych błędów.
 
-## Przyszłość systemów kontroli wersji
+    Pomimo wielu korzyści programiści nadal muszą kontrolować wygenerowany kod, ponieważ AI może proponować rozwiązania zawierające błędy lub problemy bezpieczeństwa.
+
 
 ## Podsumowanie
 
-## Bibliografia
